@@ -1,1 +1,1 @@
-A simple Q&A chatbot
+A simple Q&A chatbot With OpenAI and OLLama
